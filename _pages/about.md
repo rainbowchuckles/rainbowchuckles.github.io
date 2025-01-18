@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: BEng (Mech & Aero) with Hons. (First Class), DPhil. 
 
 profile:
   align: right
