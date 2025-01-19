@@ -2,7 +2,7 @@
 layout: page
 title: mach stem
 description: simulating a hypersonic mach stem with non-equilirbium
-img: assets/img/12.jpg
+img: assets/img/stem-rho.gif
 importance: 1
 category: work
 related_publications: true
