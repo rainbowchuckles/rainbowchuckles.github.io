@@ -1,6 +1,6 @@
 ---
 layout: post
-title: post-phd update!  
+title: post-phd update! new website! 
 date: 2025-01-19 21:01:00
 description: starting the post-doc and launching the website
 tags: update, life     
@@ -10,6 +10,10 @@ thumbnail: assets/img/9.jpg
 
 Hello!
 
-It has been a while since I shared anything resembling a blog post. From about mid-2022 until a few months ago I was utterly swamped with work for my thesis, which is my excuse. 
+It has been a while since I shared anything resembling a blog post. From about mid-2022 until a few months ago I was utterly swamped with work for my thesis, which is my excuse. I was also somewhat unhappy with posting on wordpress, the website layout is a bit generic and didn't really give me the look / control I would have ideally liked. However, I'm back at it with this new website which I think looks great?
 
+I want the website to be a platform for me to share my work (research or otherwise) in a lasting and meaningful way. Research papers are fine, but they are intended to be highly technical and not necessarily exciting to read. I have a fair backlog of great work which I'm going to take to journal over the next year or so, but I would also like to keep a record of it here so that its more tractable, not behind a paywall, etc.
 
+Aside from the website, I've started a post-doc position at Oxford (same group) and I'll be continuing with similar research. Also quite keen to broaden my horizons beyond just hypersonics, particularly keen to continue learning some data science / ml stuff which I think is going to be a part of our future whether we like it or not. 
+
+That's all for now, will hop back on here soon with some more detailed stuff about my recent research. Peace!  
