@@ -415,11 +415,6 @@ ninja.data = [{
           description: "the unofficial world record in the T6 wind tunnel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/champagne-cork/";
-            },},{id: "projects-esa-ice-giant-capability-development",
-          title: 'esa ice giant capability development',
-          description: "summary of the work done by oxford and stuttgart",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/esa-ice-giant/";
             },},{id: "projects-lasta",
           title: 'lasta',
           description: "lagrangian shock tube anaylysis",
