@@ -389,16 +389,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-submitted-my-thesis",
+          title: 'I submitted my thesis!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-passed-my-viva-submitting-corrections-over-the-next-6-months",
+          title: 'I passed my viva! Submitting corrections over the next 6 months.',
           description: "",
           section: "News",},{id: "projects-atar-calculator-app",
           title: 'atar calculator app',
