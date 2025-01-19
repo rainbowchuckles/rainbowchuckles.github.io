@@ -425,6 +425,11 @@ ninja.data = [{
           description: "simulating a hypersonic mach stem with non-equilirbium",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mach-stem/";
+            },},{id: "projects-trading-bot",
+          title: 'trading bot',
+          description: "bot developed to work with meta trader 5",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trader/";
             },},{
         id: 'social-email',
         title: 'email',
