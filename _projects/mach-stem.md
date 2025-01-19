@@ -23,4 +23,3 @@ related_publications: true
     Overview of the model geometry and concept
 </div>
 
-{% endraw %}

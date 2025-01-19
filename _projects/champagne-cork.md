@@ -28,4 +28,3 @@ Not really sure why, but we decided to try and break the world record for fastes
     The team who broke the record, pictured in the hypersonics lab
 </div>
 
-{% endraw %}
