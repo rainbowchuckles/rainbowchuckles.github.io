@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-phd-update-2-a-few-wins",
+        },{id: "post-arse-article-on-us",
+      
+        title: 'arse article on us... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "all press is good press?",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://spaceaustralia.com.au/blogs/news/scientists-simulate-experience-of-plunging-into-uranus?_pos=4&_sid=d2b47bb06&_ss=r", "_blank");
+        
+      },
+    },{id: "post-phd-update-2-a-few-wins",
       
         title: 'PhD Update #2: A few wins <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
