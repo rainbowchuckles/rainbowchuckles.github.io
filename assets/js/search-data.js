@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "a collection of some of my projects, both personal and work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -425,11 +425,6 @@ ninja.data = [{
           description: "simulating a hypersonic mach stem with non-equilirbium",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mach-stem/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-trading-bot",
           title: 'trading bot',
           description: "bot developed to work with meta trader 5",
