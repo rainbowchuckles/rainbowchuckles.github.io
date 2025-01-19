@@ -445,6 +445,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-fastest-champagne-cork",
+          title: 'fastest champagne cork',
+          description: "the unofficial world record in the T6 wind tunnel",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/champagne-cork/";
             },},{
         id: 'social-email',
         title: 'email',
