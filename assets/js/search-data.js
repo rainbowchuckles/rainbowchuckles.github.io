@@ -405,6 +405,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-atar-calculator-app",
+          title: 'atar calculator app',
+          description: "ios app development",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/atar-calculator-app/";
             },},{id: "projects-fastest-champagne-cork",
           title: 'fastest champagne cork',
           description: "the unofficial world record in the T6 wind tunnel",
