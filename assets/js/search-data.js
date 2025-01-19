@@ -131,6 +131,13 @@ ninja.data = [{
           window.open("https://leetcode.com/u/rainbowchuckles/", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/joseph-steer", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
