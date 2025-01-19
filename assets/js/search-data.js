@@ -37,26 +37,114 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-phd-update-2-a-few-wins",
       
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'PhD Update #2: A few wins <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+      description: "Some big engineering projects finished, good things on the horizon",
       section: "Posts",
       handler: () => {
         
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          window.open("https://rainbowchuckles.wordpress.com/2022/01/21/phd-update-2-a-few-wins/", "_blank");
         
       },
-    },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+    },{id: "post-getting-hands-on",
       
-        title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Getting hands on <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "Hey all. Been a couple of weeks since my last post so here&amp;#8217;s a quick run down of everything I&amp;#8217;ve been up to. It&amp;#8217;s been a pretty hectic period with a lot more time spent in the lab working directly on the tunnel which I have really enjoyed. Life wise, Laura has joined me inContinue reading &quot;Getting hands on&quot;View post to subscribe to site newsletter.",
       section: "Posts",
       handler: () => {
         
-          window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          window.open("https://rainbowchuckles.wordpress.com/2021/06/30/getting-hands-on/", "_blank");
+        
+      },
+    },{id: "post-learning-about-helium-leak-detection",
+      
+        title: 'Learning about helium leak detection <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Hi all. Missed a week last week and my excuse is that I was in the lab pretty much every day + I had a big meeting with my project sponsor + I&amp;#8217;m a bit slack. The reason I was in the lab was to learn how to check for leaks on the wind tunnelContinue reading &quot;Learning about helium leak&amp;#160;detection&quot;View post to subscribe to site newsletter.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/05/27/learning-about-helium-leak-detection/", "_blank");
+        
+      },
+    },{id: "post-designing-a-model-spacecraft",
+      
+        title: 'Designing a model spacecraft <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Hi all. As I&amp;#8217;ve mentioned a few times on the blog I have been spending a lot of my time doing engineering design on a variety of small projects. I have recently started (as in this week) on a new one which is the design of a model to use in the wind tunnel, soContinue reading &quot;Designing a model&amp;#160;spacecraft&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/05/15/designing-a-model-spacecraft/", "_blank");
+        
+      },
+    },{id: "post-6-things-i-ve-learnt-about-design",
+      
+        title: '6 things I’ve learnt about design <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "As an engineering student and even as an intern I didn&amp;#8217;t do much engineering design. I did plenty of homework questions, assignments, and exam papers but I had never seen a project through from start to finish. For this reason I conceived of the design process as something abstract, linear, and all kept in aContinue reading &quot;6 things I&amp;#8217;ve learnt about&amp;#160;design&quot;View post to subscribe to site newsletter.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/05/06/6-things-ive-learnt-about-design/", "_blank");
+        
+      },
+    },{id: "post-phd-update-1-how-it-s-all-going",
+      
+        title: 'PhD update #1: How it’s all going <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Hi all. I figured today I&amp;#8217;d write a bit of an update about how my PhD is going overall, what my feelings are about it versus when I started, what&amp;#8217;s coming next etc &amp;#8211; more of a journal entry I suppose. Hopefully I can write a post similar to this every couple of months soContinue reading &quot;PhD update #1: How it&amp;#8217;s all&amp;#160;going&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/04/30/phd-update-1-how-its-all-going/", "_blank");
+        
+      },
+    },{id: "post-what-happens-when-you-go-really-really-fast",
+      
+        title: 'What happens when you go really, really fast? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Try to imagine what an aircraft that travels at 28,000 km/h might look like. One might imagine something long, pointy, and aerodynamic light a fighter jet or the Concorde and this would be perfectly sensible. However, we don&amp;#8217;t have to imagine, we have a real life example in the Space Shuttle. The shuttle has aContinue reading &quot;What happens when you go really, really&amp;#160;fast?&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/04/22/what-happens-when-you-go-really-really-fast/", "_blank");
+        
+      },
+    },{id: "post-seminar-presentation",
+      
+        title: 'Seminar presentation! <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Hi all. Something a bit different this week &amp;#8211; I decided to record a presentation I gave this week to my colleagues in the lab. It is a little bit technical and long but it&amp;#8217;s a very detailed look at what exactly I&amp;#8217;m doing day to day. Hope you enjoy!",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/04/16/seminar-presentation/", "_blank");
+        
+      },
+    },{id: "post-how-aerospace-engineers-are-fighting-covid",
+      
+        title: 'How aerospace engineers are fighting COVID <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "The answer: Computational Fluid Dynamics (CFD). Firstly, computational fluid dynamics is a terrible, uninspiring name for something this is really quite accessible and very useful. Over the years, CFD has evolved from a primitive tool used in research laboratories to a ubiquitous, commercially available piece of software that is indispensible to engineers. Most recently, itContinue reading &quot;How aerospace engineers are fighting&amp;#160;COVID&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/04/08/how-aerospace-engineers-are-fighting-covid/", "_blank");
+        
+      },
+    },{id: "post-what-are-wind-tunnels-and-how-do-they-work",
+      
+        title: 'What are wind tunnels and how do they work? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Wind tunnels are perhaps the single most useful tool in an aerospace engineers arsenal. They can provide highly accurate information about the aerodynamics, performance, and stability of an aircraft, all before the the full scale aircraft has been built. Wind tunnels come in all shapes and sizes &amp;#8211; from a maximum speed of 28 metresContinue reading &quot;What are wind tunnels and how do they&amp;#160;work?&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://rainbowchuckles.wordpress.com/2021/04/02/what-are-wind-tunnels-and-how-do-they-work/", "_blank");
         
       },
     },{id: "news-i-submitted-my-thesis",
