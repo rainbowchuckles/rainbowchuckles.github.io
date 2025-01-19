@@ -405,26 +405,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-atar-calculator-app",
-          title: 'atar calculator app',
-          description: "ios app development",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/atar-calculator-app/";
-            },},{id: "projects-fastest-champagne-cork",
-          title: 'fastest champagne cork',
-          description: "the unofficial world record in the T6 wind tunnel",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/champagne-cork/";
-            },},{id: "projects-lasta",
-          title: 'lasta',
-          description: "lagrangian shock tube anaylysis",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/lasta/";
-            },},{id: "projects-mach-stem",
-          title: 'mach stem',
-          description: "simulating a hypersonic mach stem with non-equilirbium",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mach-stem/";
             },},{id: "projects-trading-bot",
           title: 'trading bot',
           description: "bot developed to work with meta trader 5",
