@@ -22,6 +22,5 @@ related_publications: true
 <div class="caption">
     Overview of the model geometry and concept
 </div>
-```
 
 {% endraw %}
