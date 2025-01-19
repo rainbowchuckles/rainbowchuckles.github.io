@@ -2,7 +2,7 @@
 layout: page
 title: fastest champagne cork 
 description: the unofficial world record in the T6 wind tunnel
-img: assets/img/cork.gif
+img: assets/img/cork.png
 importance: 1
 category: work
 related_publications: true
