@@ -8,11 +8,11 @@
     "url": "https://rainbowchuckles.github.io",
     "summary": "An Australian born aerospace engineer and computer scientist working in the UK",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": "Oxfordshire"
     },
     "profiles": [
       {
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Oxford Thermofluids Institute, University of Oxford",
+      "position": "Post-doctoral Researcher",
+      "url": "https://eng.ox.ac.uk/people/joe-steer/",
+      "startDate": "2024-10-11",
+      "endDate": "Present",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
