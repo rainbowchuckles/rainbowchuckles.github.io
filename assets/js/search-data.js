@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-arse-article-on-us",
+        },{id: "post-post-phd-update-new-website",
+      
+        title: "post-phd update! new website!",
+      
+      description: "starting the post-doc and launching the website",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/update/";
+        
+      },
+    },{id: "post-arse-article-on-us",
       
         title: 'arse article on us... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -156,6 +167,17 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://rainbowchuckles.wordpress.com/2021/04/02/what-are-wind-tunnels-and-how-do-they-work/", "_blank");
+        
+      },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/code/";
         
       },
     },{id: "news-i-submitted-my-thesis",
