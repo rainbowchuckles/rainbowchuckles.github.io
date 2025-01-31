@@ -15,7 +15,7 @@
       institution: University of Oxford, Oxford, United Kingdom
       year: 2024
       description:
-        - title: Thesis title: Simulation of radiation in non-equilibrium and expanding hypersonic flows
+        - title: Simulation of radiation in non-equilibrium and expanding hypersonic flows
           contents:
             - Developed a quasi-1D shock and expanstion tube model in Fortran / C++ known as LASTA 2 (LAgrangian Shock Tube Analysis)
             - Implementation of two-temperature thermodynamic model, boundary layer model, Newton's method with exact Jacobian
