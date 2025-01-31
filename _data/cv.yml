@@ -5,8 +5,8 @@
       value: Joseph Graham Steer
     - name: Date of Birth
       value: 11th January 1997
-    - name: Languages
-      value: English
+    - name: Skills   
+      value: Fortran, C++, Python, MATLAB, Pandas, Scikit-Learn, Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA)
 
 - title: Education
   type: time_table
