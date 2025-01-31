@@ -20,6 +20,7 @@
             - Developed a quasi-1D shock and expanstion tube model in Fortran / C++ known as LASTA 2 (LAgrangian Shock Tube Analysis)
             - Implementation of two-temperature thermodynamic model, boundary layer model, Newton's method with exact Jacobian
             - Funamental radiation experiments for Ice Giant exploration, Lunar return
+            - Funded by the European Space Agency (ESA) OSIP program
 
     - title: Bachelor of Mechanical and Aerospace Engineering (Hons, 1st Class)
       institution: University of Adelaide, Adelaide, Australia
@@ -36,10 +37,6 @@
       institution: University of Oxford, Oxford, United Kingdom
       year: 2025 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Funded through an Engineering and Physical Sciences Research Council (EPSRC) grant
+        - Study of expanding flows (numerical and experimental)
 
